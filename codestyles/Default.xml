@@ -1,1 +1,5 @@
-<code_scheme name="Default" />
+<code_scheme name="Default" version="173">
+  <RsCodeStyleSettings>
+    <option name="ALIGN_TYPE_PARAMS" value="true" />
+  </RsCodeStyleSettings>
+</code_scheme>
